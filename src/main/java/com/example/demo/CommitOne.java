@@ -7,6 +7,7 @@ package com.example.demo;
 public class CommitOne {
     String lamp;
     String chair;
+    String televizo;
 
     public void addLamp(){
         this.lamp = "new";
@@ -18,4 +19,7 @@ public class CommitOne {
      public void nothing(){
          System.out.println("Nothing");
      }
+
+    public void addTelevizo() {
+    }
 }
