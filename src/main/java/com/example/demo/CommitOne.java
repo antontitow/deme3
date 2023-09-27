@@ -6,8 +6,12 @@ package com.example.demo;
  **/
 public class CommitOne {
     String lamp;
+    String chair;
 
     public void addLamp(){
         this.lamp = "new";
     }
+     public void addChair(){
+         this.chair = "next";
+     }
 }
