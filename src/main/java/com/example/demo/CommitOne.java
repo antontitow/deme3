@@ -5,4 +5,8 @@ package com.example.demo;
  * @created : 27.09.2023, 11:53
  **/
 public class CommitOne {
+    String televizo;
+
+    public void addTelevizo() {
+    }
 }
