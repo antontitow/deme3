@@ -14,4 +14,8 @@ public class CommitOne {
      public void addChair(){
          this.chair = "next";
      }
+
+     public void nothing(){
+         System.out.println("Nothing");
+     }
 }
